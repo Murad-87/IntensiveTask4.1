@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="defaultLightBackgroundColor">#EFEEEE</color>
+    <color name="defaultDarkBackgroundColor">#E8E6E5</color>
+    <color name="defaultBorderColor">#32FFFFFF</color>
+    <color name="defaultDarkShadowColor">#80D1CDC7</color>
+    <color name="defaultLightShadowColor">#80FFFFFF</color>
+    <color name="defaultTextColor">#131313</color>
+    <color name="defaultIconColor">#d62828</color>
+    <color name="defaultMinHourHandsColor">#003049</color>
+    <color name="defaultSecondsHandsColor">#d62828</color>
 </resources>
